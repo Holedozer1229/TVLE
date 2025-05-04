@@ -120,5 +120,5 @@ TVLE represents a groundbreaking advancement in quantum mechanics, bridging theo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/travis-jones/TVLE.git
+   git clone https://github.com/Holedozer1229/TVLE.git
    cd TVLE
